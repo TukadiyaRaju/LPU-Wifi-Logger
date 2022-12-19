@@ -21,3 +21,5 @@ Once developer mode is on, you can find the `Load Unpacked` button in the top le
 Select the entire folder where you extracted the zip file.
 <img width="1312" alt="Screenshot 2022-12-19 at 11 34 28 AM" src="https://user-images.githubusercontent.com/115335924/208359326-2976798d-0f10-4184-9141-260a51442a8b.png"></li>
 </ol>
+
+Thank you so much!
