@@ -1,6 +1,6 @@
 <h1>It helps you to automate your login process when you connect to the LPU wifis.</h1>
 
-<h2>How to load this?</h2>
+<h2>How to load this extension in your browser?</h2>
 <ol>
 <li>
 Download the code in the zip file.
